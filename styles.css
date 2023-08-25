@@ -1,0 +1,30 @@
+.orange{
+    height: 200px;
+    width: 1000px;
+    background-color: orange;
+}
+
+.white{
+    height: 200px;
+    width: 1000px;
+    
+    position: relative;
+    background-color: white;
+
+}
+
+.green{
+    height: 200px;
+    width: 1000px;
+    background-color: green;
+}
+
+.blue{
+    height:150px;
+    width:150px;
+    background-color: blue;
+    border-radius: 50%;
+    position:absolute;
+    left: 425px;
+    top: 30px;
+}
